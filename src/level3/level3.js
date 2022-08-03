@@ -129,8 +129,7 @@ export function mayorACien(array) {
 
 export function breakStatement(numero) {
   // Tu código:
-
-  return;
+  
 }
 
 
